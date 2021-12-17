@@ -4,3 +4,12 @@ h1{
 h2{
     color: rgb(36, 209, 192);
 }
+p{
+    background-color: grey;
+   font-size: 40px;
+   color: indigo;
+}
+.pisa{
+    width: 600;
+    height: 300px;
+}
