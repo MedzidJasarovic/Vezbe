@@ -1,0 +1,21 @@
+#forma1 {
+  width: 50%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+input {
+  width: 20%;
+}
+button {
+  width: 20%;
+}
+#product {
+  width: 20%;
+}
+#sekcija1 {
+  height: 500px;
+  border: 1px black solid;
+}
