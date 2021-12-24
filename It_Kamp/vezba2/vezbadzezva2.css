@@ -19,3 +19,11 @@ button {
   height: 500px;
   border: 1px black solid;
 }
+
+#li {
+  list-style-type: none;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
