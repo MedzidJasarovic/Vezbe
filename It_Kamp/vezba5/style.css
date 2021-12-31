@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  border: solid black 1px;
+  height: 50vh;
+  justify-content: space-around;
+
+  display: flex;
+  /* justify-content: center; /* stavi ga u sredinu horizontalno */
+  align-items: center; /*stavi ga u sredinu vertikalnoo */
+}
+.box1 {
+  background: rgb(53, 172, 136);
+}
+.box {
+  border: solid black 1px;
+  height: 10vh;
+  width: 10%;
+}
+.box2 {
+  background: rgb(126, 66, 66);
+}
+.box3 {
+  background: rgb(132, 77, 116);
+}
+.box4 {
+  background: rgb(126, 66, 66);
+}
+.box5 {
+  background: rgb(199, 66, 66);
+}
+.box6 {
+  background: rgb(69, 69, 69);
+}
