@@ -13,12 +13,12 @@
   align-items: center; /*stavi ga u sredinu vertikalnoo */
 }
 .box1 {
-  background: rgb(53, 172, 136);
+  background: rgb(23, 172, 136);
 }
 .box {
   border: solid black 1px;
-  height: 10vh;
-  width: 10%;
+  height: 30vh;
+  width: 30%;
 }
 .box2 {
   background: rgb(126, 66, 66);
@@ -27,11 +27,11 @@
   background: rgb(132, 77, 116);
 }
 .box4 {
-  background: rgb(126, 66, 66);
+  background: rgb(146, 66, 66);
 }
 .box5 {
-  background: rgb(199, 66, 66);
+  background: rgb(99, 66, 66);
 }
 .box6 {
-  background: rgb(69, 69, 69);
+  background: rgb(169, 69, 69);
 }
